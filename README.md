@@ -31,7 +31,7 @@ When analyzing the data, I will answer three questions:
 3. Which factors influence property price in Boston the most?
 
 ## File Descriptions <a name="files"></a>
-There is 1 notebook available here (link) to showcase work while answering above 3 questions.
+There is 1 notebook available [here](Project1_Boston_Kaggle.ipynb) to showcase work while answering above 3 questions.
 
 ## Results <a name="results"></a>
 The main findings of the code can be found at the post available here (link) and in markdown cells in the notebook.
